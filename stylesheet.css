@@ -1,0 +1,264 @@
+@font-face {
+    font-family: 'Lausanne 750';
+    src: url('Lausanne-750Italic.eot');
+    src: url('Lausanne-750Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-750Italic.woff2') format('woff2'),
+        url('Lausanne-750Italic.woff') format('woff'),
+        url('Lausanne-750Italic.ttf') format('truetype'),
+        url('Lausanne-750Italic.svg#Lausanne-750Italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 550';
+    src: url('Lausanne-600.eot');
+    src: url('Lausanne-600.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-600.woff2') format('woff2'),
+        url('Lausanne-600.woff') format('woff'),
+        url('Lausanne-600.ttf') format('truetype'),
+        url('Lausanne-600.svg#Lausanne-600') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 750';
+    src: url('Lausanne-800.eot');
+    src: url('Lausanne-800.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-800.woff2') format('woff2'),
+        url('Lausanne-800.woff') format('woff'),
+        url('Lausanne-800.ttf') format('truetype'),
+        url('Lausanne-800.svg#Lausanne-800') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 350';
+    src: url('Lausanne-350Italic.eot');
+    src: url('Lausanne-350Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-350Italic.woff2') format('woff2'),
+        url('Lausanne-350Italic.woff') format('woff'),
+        url('Lausanne-350Italic.ttf') format('truetype'),
+        url('Lausanne-350Italic.svg#Lausanne-350Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 550';
+    src: url('Lausanne-550Italic.eot');
+    src: url('Lausanne-550Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-550Italic.woff2') format('woff2'),
+        url('Lausanne-550Italic.woff') format('woff'),
+        url('Lausanne-550Italic.ttf') format('truetype'),
+        url('Lausanne-550Italic.svg#Lausanne-550Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 800';
+    src: url('Lausanne-800Italic.eot');
+    src: url('Lausanne-800Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-800Italic.woff2') format('woff2'),
+        url('Lausanne-800Italic.woff') format('woff'),
+        url('Lausanne-800Italic.ttf') format('truetype'),
+        url('Lausanne-800Italic.svg#Lausanne-800Italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 250';
+    src: url('Lausanne-300.eot');
+    src: url('Lausanne-300.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-300.woff2') format('woff2'),
+        url('Lausanne-300.woff') format('woff'),
+        url('Lausanne-300.ttf') format('truetype'),
+        url('Lausanne-300.svg#Lausanne-300') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 700';
+    src: url('Lausanne-750.eot');
+    src: url('Lausanne-750.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-750.woff2') format('woff2'),
+        url('Lausanne-750.woff') format('woff'),
+        url('Lausanne-750.ttf') format('truetype'),
+        url('Lausanne-750.svg#Lausanne-750') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 400';
+    src: url('Lausanne-400Italic.eot');
+    src: url('Lausanne-400Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-400Italic.woff2') format('woff2'),
+        url('Lausanne-400Italic.woff') format('woff'),
+        url('Lausanne-400Italic.ttf') format('truetype'),
+        url('Lausanne-400Italic.svg#Lausanne-400Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 650';
+    src: url('Lausanne-700.eot');
+    src: url('Lausanne-700.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-700.woff2') format('woff2'),
+        url('Lausanne-700.woff') format('woff'),
+        url('Lausanne-700.ttf') format('truetype'),
+        url('Lausanne-700.svg#Lausanne-700') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 350';
+    src: url('Lausanne-400.eot');
+    src: url('Lausanne-400.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-400.woff2') format('woff2'),
+        url('Lausanne-400.woff') format('woff'),
+        url('Lausanne-400.ttf') format('truetype'),
+        url('Lausanne-400.svg#Lausanne-400') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 500';
+    src: url('Lausanne-550.eot');
+    src: url('Lausanne-550.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-550.woff2') format('woff2'),
+        url('Lausanne-550.woff') format('woff'),
+        url('Lausanne-550.ttf') format('truetype'),
+        url('Lausanne-550.svg#Lausanne-550') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 300';
+    src: url('Lausanne-300Italic.eot');
+    src: url('Lausanne-300Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-300Italic.woff2') format('woff2'),
+        url('Lausanne-300Italic.woff') format('woff'),
+        url('Lausanne-300Italic.ttf') format('truetype'),
+        url('Lausanne-300Italic.svg#Lausanne-300Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 600';
+    src: url('Lausanne-600Italic.eot');
+    src: url('Lausanne-600Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-600Italic.woff2') format('woff2'),
+        url('Lausanne-600Italic.woff') format('woff'),
+        url('Lausanne-600Italic.ttf') format('truetype'),
+        url('Lausanne-600Italic.svg#Lausanne-600Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 700';
+    src: url('Lausanne-700Italic.eot');
+    src: url('Lausanne-700Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-700Italic.woff2') format('woff2'),
+        url('Lausanne-700Italic.woff') format('woff'),
+        url('Lausanne-700Italic.ttf') format('truetype'),
+        url('Lausanne-700Italic.svg#Lausanne-700Italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 650';
+    src: url('Lausanne-650Italic.eot');
+    src: url('Lausanne-650Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-650Italic.woff2') format('woff2'),
+        url('Lausanne-650Italic.woff') format('woff'),
+        url('Lausanne-650Italic.ttf') format('truetype'),
+        url('Lausanne-650Italic.svg#Lausanne-650Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 450';
+    src: url('Lausanne-500.eot');
+    src: url('Lausanne-500.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-500.woff2') format('woff2'),
+        url('Lausanne-500.woff') format('woff'),
+        url('Lausanne-500.ttf') format('truetype'),
+        url('Lausanne-500.svg#Lausanne-500') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 450';
+    src: url('Lausanne-450Italic.eot');
+    src: url('Lausanne-450Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-450Italic.woff2') format('woff2'),
+        url('Lausanne-450Italic.woff') format('woff'),
+        url('Lausanne-450Italic.ttf') format('truetype'),
+        url('Lausanne-450Italic.svg#Lausanne-450Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 500';
+    src: url('Lausanne-500Italic.eot');
+    src: url('Lausanne-500Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-500Italic.woff2') format('woff2'),
+        url('Lausanne-500Italic.woff') format('woff'),
+        url('Lausanne-500Italic.ttf') format('truetype'),
+        url('Lausanne-500Italic.svg#Lausanne-500Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lausanne 600';
+    src: url('Lausanne-650.eot');
+    src: url('Lausanne-650.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-650.woff2') format('woff2'),
+        url('Lausanne-650.woff') format('woff'),
+        url('Lausanne-650.ttf') format('truetype'),
+        url('Lausanne-650.svg#Lausanne-650') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 300';
+    src: url('Lausanne-350.eot');
+    src: url('Lausanne-350.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-350.woff2') format('woff2'),
+        url('Lausanne-350.woff') format('woff'),
+        url('Lausanne-350.ttf') format('truetype'),
+        url('Lausanne-350.svg#Lausanne-350') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lausanne 400';
+    src: url('Lausanne-450.eot');
+    src: url('Lausanne-450.eot?#iefix') format('embedded-opentype'),
+        url('Lausanne-450.woff2') format('woff2'),
+        url('Lausanne-450.woff') format('woff'),
+        url('Lausanne-450.ttf') format('truetype'),
+        url('Lausanne-450.svg#Lausanne-450') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
